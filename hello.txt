@@ -1,2 +1,3 @@
-Additional Text
+Additional Text (Merge conflict remote side)
+some additional lines
 Even More Additional Text
