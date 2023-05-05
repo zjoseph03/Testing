@@ -1,3 +1,4 @@
 Additional Text (Merge conflict remote side)???
+Will this cause a merge error
 some additional lines
 Even More Additional Text
